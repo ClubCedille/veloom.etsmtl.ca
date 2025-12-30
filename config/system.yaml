@@ -35,7 +35,7 @@ pages:
   type: regular
   dirs:
     - 'page://'
-  theme: quark
+  theme: appi
   order:
     by: default
     dir: asc
